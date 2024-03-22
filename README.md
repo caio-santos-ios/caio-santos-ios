@@ -3,7 +3,7 @@
 ## Sou desenvolvedor Full Stack 
 
 <div>
-  <h3>Minhas tecnologias</h3>
+  <h3>Tecnologias:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
