@@ -2,11 +2,12 @@
 
 ## Sou desenvolvedor Full Stack 
 
-<p align="center">
+<div>
+  <h3>Minhas tecnologias</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
-</p>
+</div>
 
 <!--
 **caio-santos-ios/caio-santos-ios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
