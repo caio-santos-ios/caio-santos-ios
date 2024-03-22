@@ -4,12 +4,8 @@
 
 <div style={{ display: "flex" }}>
   <h3>Tecnologias:</h3>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,react,typescript" />
-  </a>
-  <a>
     <img src="https://skillicons.dev/icons?i=git,html,css,js,react,typescript" />
-  </a>
 </div>
 
 <!--
