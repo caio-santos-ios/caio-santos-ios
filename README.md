@@ -5,7 +5,7 @@
 <div>
   <h3>Tecnologias:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,react,typescript" />
   </a>
 </div>
 
