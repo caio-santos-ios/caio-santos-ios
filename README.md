@@ -2,7 +2,7 @@
 
 ## Sou desenvolvedor Full Stack 
 
-<div style={{ display: "flex" }}>
+<div>
   <h3>Tecnologias:</h3>
     <img src="https://skillicons.dev/icons?i=git,html,css,js,react,typescript" />
     <img src="https://skillicons.dev/icons?i=git,html,css,js,react,typescript" />
