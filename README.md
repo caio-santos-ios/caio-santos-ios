@@ -6,7 +6,8 @@
   <h3>Tecnologias:</h3>
     <img src="https://skillicons.dev/icons?i=git,html,css,js,react,typescript" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,react,typescript" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=terminal,nodejs,express,php,laravel,ptyhon,django,mysql,postgres" />
 </div>
 
 <!--
